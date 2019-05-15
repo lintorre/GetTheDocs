@@ -18,9 +18,8 @@ to help you create fantastic documentation for your project.
 
 .. toctree::
 
-   README
    blah
-   AUTHORS
+   *
 
 
 
