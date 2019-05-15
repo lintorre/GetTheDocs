@@ -21,7 +21,7 @@ to help you create fantastic documentation for your project.
    :hidden:
    :caption: First Steps
 
-blah
+:doc:`With blah <blah>`
 
 
 
