@@ -17,12 +17,10 @@ to help you create fantastic documentation for your project.
   :doc:`With blah <blah>`
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: First Steps
 
-:doc:`With blah <blah>`
-.. _user-docs:
+   README
+   blah
+   AUTHORS
 
 
 
