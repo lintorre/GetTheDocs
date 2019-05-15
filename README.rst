@@ -39,3 +39,9 @@ License
 -------
 
 The project is licensed under the BSD license.
+
+LicenseTEST
+-------
+
+The project is licensed under the BSD license.
+
