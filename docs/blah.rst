@@ -1,5 +1,5 @@
-extra_css:
-    - css/second_extra.css
+extra_css: [css/second_extra.css]
+
 ========
 blah
 ========
