@@ -5,22 +5,14 @@
 
 Welcome to Read the Docs Template's documentation!
 ==================================================
-First steps
------------
 
-Are you new to software documentation
-or are you looking to use your existing docs with Read the Docs?
-Learn about documentation authoring tools such as Sphinx and MkDocs
-to help you create fantastic documentation for your project.
-
-* **Getting started**:
-  :doc:`With blah <blah>`
+Contents:
 
 .. toctree::
+   :maxdepth: 2
+   :glob:
 
-   blah
    *
-
 
 
 Indices and tables
