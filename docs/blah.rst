@@ -1,3 +1,5 @@
+extra_css:
+    - css/second_extra.css
 ========
 blah
 ========
